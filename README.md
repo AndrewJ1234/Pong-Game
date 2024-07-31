@@ -49,32 +49,6 @@ However, Processing currently works only with Java 8. In order to have the Java 
 
 At this point, the project should run properly. Try it out.
 
-## Project Structure
-pongGame/
-├── .idea/
-├── lib/
-│   ├── commons-lang3-3.12.0.jar
-│   ├── hamcrest-core-1.3.jar
-│   ├── junit-4.13.2.jar
-│   ├── mockito-core-4.3.1.jar
-│   ├── core.jar
-│   ├── javamp3-1.0.4.jar
-│   ├── jsyn-20171016.jar
-│   ├── sound.jar
-├── src/
-│   └── edu/nyu/cs/
-│       ├── Ball.java
-│       ├── Game.java
-│       ├── Paddle.java
-├── test/
-│   └── edu/nyu/cs/
-│       └── GameTest.java
-├── .gitignore
-├── LICENSE
-├── README.md
-├── pongGame.iml
-└── settings.json
-
 ## Authors
 
 This game was created by:
