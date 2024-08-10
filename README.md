@@ -1,7 +1,7 @@
 # pongGame
 
 ## Overview
-pongGame is a simplified version of the classic Pong game. This project is implemented in Java and uses the Processing library for graphics and animation.
+My Pong game is a simplified version of the classic Pong game. This project is implemented in Java and uses the Processing library for graphics and animation.
 
 ## Features
 - Two-player mode
